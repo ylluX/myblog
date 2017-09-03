@@ -38,6 +38,7 @@ Hexo 可以说是目前最流行的博客框架了，基于Nodejs，它依赖Git
 该仓库中缺少node_modules文件夹(被.gitignore忽略).
 
 如果在其它电脑上更新blog, 可以:
+
 ```
 # 克隆项目
 git clone git@github.com:ylluX/myblog.git
@@ -54,4 +55,10 @@ npm install hexo-deployer-git --save
 # 因为网站使用了local search的站内搜索功能,所以需要安装相应工具
 npm install hexo-generator-searchdb
 ```
+
 然后写作 ,更新, 发布即可
+
+## 参考
+1. [5分钟 搭建免费个人博客](http://www.jianshu.com/p/4eaddcbe4d12)
+2. [NexT](http://theme-next.iissnan.com/getting-started.html)
+3. [使用Hexo搭建博客（三），博客配置、主题和写作](http://www.jianshu.com/p/db7e64d86067)
