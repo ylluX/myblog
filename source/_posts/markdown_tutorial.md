@@ -3,6 +3,7 @@ title: 作业部落--Cmd Markdown 编辑阅读器
 tags: 
   - Testing
 categories: Testing
+mathjax: true
 ---
 
 # 欢迎使用 Cmd Markdown 编辑阅读器

@@ -41,7 +41,8 @@ Hexo 可以说是目前最流行的博客框架了，基于Nodejs，它依赖Git
 
 ```
 # 克隆项目
-git clone git@github.com:ylluX/myblog.git
+#git clone git@github.com:ylluX/myblog.git
+git clone https://github.com/ylluX/myblog.git
 # hexo 初始化一个临时文件(为了获得node_modules)
 hexo init temp
 # 将temp/node_modules复制到myblog
